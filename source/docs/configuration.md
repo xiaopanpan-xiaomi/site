@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: xiaopanpan-xiaomi
 ---
 You can modify site settings in `_config.yml` or in an [alternate config file](#Using-an-Alternate-Config).
 
