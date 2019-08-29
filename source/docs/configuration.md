@@ -7,11 +7,11 @@ You can modify site settings in `_config.yml` or in an [alternate config file](#
 
 Setting | Description
 --- | ---
-`title` | The title of your website
-`subtitle` | The subtitle of your website
-`description` | The description of your website
+`title` | panpan
+`subtitle` | day day up
+`description` | python
 `keywords` | The keywords of your website. Separate multiple keywords with commas `,`.
-`author` | Your name
+`author` | 肖盼盼
 `language` | The language of your website. Use a [2-lettter ISO-639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) or optionally [its variant](/docs/internationalization). Default is `en`.
 `timezone` | The timezone of your website. Hexo uses the setting on your computer by default. You can find the list of available timezones [here](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones). Some examples are `America/New_York`, `Japan`, and `UTC`.
 
